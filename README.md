@@ -13,7 +13,7 @@
   from Austria. I'm a
   <strong>Video game Enthusiast🎮🕹</strong>
   passionate about learning and working with the latest technology.
-  I love to lead and work on innovative projects, especially if they have the potential to gain me new knowledge.
+  I love to lead and work on innovative projects, especially if they have the potential to help me gain new knowledge.
   <br>
 </p>
 
