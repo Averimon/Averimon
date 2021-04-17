@@ -21,16 +21,14 @@
   <br>
 </p>
 
-<h3>
+<!--<h3>
   <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
   Quick Stats
 </h3>
 <p align="center">
-  
-  <!--[![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=averimon&show_icons=true)](https://github.com/averimon/github-readme-stats)-->
+  [![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=averimon&show_icons=true)](https://github.com/averimon/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averimon&layout=compact)](https://github.com/averimon/github-readme-stats)
-  
-</p>
+</p>-->
 
 <details>
   <summary>Templates / Sources</summary>
