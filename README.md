@@ -30,6 +30,13 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averimon&layout=compact)](https://github.com/averimon/github-readme-stats)
 </p>-->
 
+<br>
+
+<p>
+  
+  ![](https://komarev.com/ghpvc/?username=averimon&color=red)
+</p>
+
 <details>
   <summary>Templates / Sources</summary>
   <ul>
