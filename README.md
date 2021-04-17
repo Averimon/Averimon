@@ -60,7 +60,7 @@
 <details>
   <summary>Templates / Sources</summary>
   <ul>
-    <li><a href="https://github.com/Defcon27/Defcon27">Design Idea</a></li>
+    <li><a href="https://github.com/Defcon27/Defcon27">Original Design</a></li>
     <li><a href="https://github.com/antonkomarev/github-profile-views-counter">github-profile-views-counter</a></li>
     <li><a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
   </ul>
