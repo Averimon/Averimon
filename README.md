@@ -23,7 +23,7 @@
 <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" style="max-width:100%;" width="308" height="308" align="right">
 <ul>
   <li>🔭 I’m currently working on various projects, such as an own Messenger or Games in general</li>
-  <li>🌱 At the moment, I am trying to improve my Vue, TypeScript and Flutter skills</li>
+  <li>🌱 At the moment, I am trying to improve my <strong>Vue</strong>, <strong>TypeScript</strong> and <strong>Flutter</strong> skills</li>
   <li><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" style="max-width:100%;" width="25px"> I enjoy working on...</li>
   <ul>
     <li>📊 Machine Learning & Artificial Intelligence</li>
