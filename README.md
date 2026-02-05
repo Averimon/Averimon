@@ -2,7 +2,7 @@
 
 Computer Science Master's student at TU Graz with a strong focus on interactive systems, game technology, and applied software engineering.
 
-I enjoy building projects at the intersection of **games, research, UX, and real-world applications**, especially when they involve clean system architecture, meaningful user interaction,n and a bit of creativity.
+I enjoy creating projects at the intersection of **games, research, UX, and real-world applications**, especially when they involve meaningful user interaction and a bit of creativity.
 
 🔗 Portfolio: https://flowm.me
 
