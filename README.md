@@ -20,14 +20,14 @@ Vue.js · Flutter · Firebase · Unity · Git · Linux
 - Game Development & Interactive Systems
 - Gamification & Learning Applications
 - Data-driven analysis of user interaction
-- Clean architecture & maintainable code
+- Clean architecture & maintainable code (at least when working in a team 😇)
 - Rapid prototyping of ideas into working software
 
 ---
 
 ## Highlight Project
 
-### Handzeichen - Gamified Austrian Sign Language Learning App
+### 👋 Handzeichen - Gamified Austrian Sign Language Learning App
 Bachelor thesis project, awarded *Mind the Gap 2025* and selected for *Posters in Parliament*.
 
 A mobile learning application built with Flutter & Firebase that applies gamification principles to make sign language learning engaging and accessible.
