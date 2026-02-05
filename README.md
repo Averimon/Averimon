@@ -1,4 +1,4 @@
-<h1> <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" style="max-width:100%;" width="40px"> Greetings! I am <a href="https://flowm.me" target="_blank">Florian</a>. </h1>
+<h1> <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" style="max-width:100%;" width="40px"> Greetings! I am <a href="https://flowm.me" target="_blank" rel="noopener">Florian</a>. </h1>
 
 Computer Science Master's student at TU Graz with a strong focus on interactive systems, game technology, and applied software engineering.
 
