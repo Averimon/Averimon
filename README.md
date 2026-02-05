@@ -1,8 +1,8 @@
 <h1> <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" style="max-width:100%;" width="40px"> Greetings! I am <a href="https://flowm.me">Florian</a>. </h1>
 
-Computer Science Master's student at TU Graz with a strong focus on interactive systems, game technology and applied software engineering.
+Computer Science Master's student at TU Graz with a strong focus on interactive systems, game technology, and applied software engineering.
 
-I enjoy building projects at the intersection of **games, research, UX, and real-world applications** — especially when they involve clean system architecture, meaningful user interaction and a bit of creativity.
+I enjoy building projects at the intersection of **games, research, UX, and real-world applications**, especially when they involve clean system architecture, meaningful user interaction,n and a bit of creativity.
 
 🔗 Portfolio: https://flowm.me
 
@@ -27,7 +27,7 @@ Vue.js · Flutter · Firebase · Unity · Git · Linux
 
 ## Highlight Project
 
-### Handzeichen — Gamified Austrian Sign Language Learning App
+### Handzeichen - Gamified Austrian Sign Language Learning App
 Bachelor thesis project, awarded *Mind the Gap 2025* and selected for *Posters in Parliament*.
 
 A mobile learning application built with Flutter & Firebase that applies gamification principles to make sign language learning engaging and accessible.
@@ -36,7 +36,7 @@ A mobile learning application built with Flutter & Firebase that applies gamific
 
 ## Currently
 
-- Working as student project assistant at TU Graz in game-related research
+- Working as a student project assistant at TU Graz in game-related research
 - Leading the student team *Game Dev Students Graz*
 - Exploring VR, gamification, and interactive learning concepts
 - Building my own indie and experimental software projects
